@@ -1,16 +1,15 @@
-# brainf-ck
-[![CodeFactor](https://www.codefactor.io/repository/github/pvzzombs/brainf-ck/badge)](https://www.codefactor.io/repository/github/pvzzombs/brainf-ck)  
+# brainf-ck  
 A brainf*ck interpreter written in C++
 
 ### How to use
-Compile `main.cpp` with any c++ compiler.  
+Compile `main.cpp` with any c++ compiler in Windows.  
 
 **After Compiling**  
 1. Open the executable via console/command prompt.  
 2. You should see the options and commands.  
 3. DONE!
 
-Copyright (c) 2019 Miles MJ Jamon
+Copyright (c) 2020 Refrando Blue
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
